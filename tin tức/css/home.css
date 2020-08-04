@@ -1,0 +1,33 @@
+/* Body*/
+body{
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    width: 1500px;
+}
+/*Head*/
+.head{
+    text-align: center;
+}
+.head a{
+    border: red;
+    border-style: solid;
+    border-width: 2px;
+}
+/*Main*/
+.main{
+    width:1500px ;
+}
+.main .main_left{
+    border:red;
+    border-style: solid;
+    border-width: 2px;
+}
+.main .main_right{
+    border: red;
+    border-style: solid;
+    border-width: 2px;
+}
+/**/
+/**/
+/**/

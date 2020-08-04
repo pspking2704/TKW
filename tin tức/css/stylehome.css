@@ -1,0 +1,11 @@
+/* Body*/
+body{
+    margin: 0px;
+    padding: 0px;
+}
+/*Head*/
+.head a{
+    border: violet;
+    border-style: solid;
+    border-width: 2px;
+}

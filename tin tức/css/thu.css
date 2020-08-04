@@ -1,0 +1,29 @@
+#header{
+    background:white;
+    height: 40px;
+}
+#header img{
+    height: 40px;
+}
+#header h2 {
+    float: left;
+    margin: 0px;
+}
+#manu{
+    background: royalblue;
+    height: 40px;
+}
+#content{
+    background: saddlebrown;
+    height: 280px;
+}
+#footer{
+    background: silver;
+    height: 20px;
+    di
+}
+body{
+    background: red;
+    width: 1000px;
+    margin: 0px auto;
+}
